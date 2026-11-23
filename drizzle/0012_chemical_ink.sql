@@ -1,0 +1,1 @@
+ALTER TABLE `accounts` ADD `annual_management_fee_percent` real;

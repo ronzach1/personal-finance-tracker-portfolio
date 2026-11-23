@@ -1,0 +1,1 @@
+ALTER TABLE `holdings` ADD `display_alias` text;
